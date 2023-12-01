@@ -1,4 +1,4 @@
-class Solution {  
+class Solution { 
     public long solution(long n) {
         long answer = 0;
         StringBuffer str = new StringBuffer(n+"");
